@@ -1,6 +1,6 @@
 # Computer-Graphics
 
-## Implementaion of the following basic Computer-Graphics Algorithms in C
+## Implementation of the following basic Computer-Graphics Algorithms
 
 ````
 1) Boundary Fill
